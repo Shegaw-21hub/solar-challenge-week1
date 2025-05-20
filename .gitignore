@@ -1,21 +1,8 @@
-﻿# Python
-venv/
-*.pyc
-__pycache__/
-
-# Jupyter
-.ipynb_checkpoints/
-notebooks/outputs/
-
-# Data files
+venv/# Data directories
 data/
 notebooks/data/
 outputs/
 
-# IDE
-.vscode/
-.idea/
-
-# System
-.DS_Store
-Thumbs.db
+# Temporary files
+.ipynb_checkpoints/
+__pycache__/
