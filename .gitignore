@@ -1,1 +1,8 @@
-venv/
+venv/# Data directories
+data/
+notebooks/data/
+outputs/
+
+# Temporary files
+.ipynb_checkpoints/
+__pycache__/
