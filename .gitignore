@@ -1,15 +1,15 @@
 ﻿# Python
 venv/
-*.pyc
 __pycache__/
+*.py[cod]
 
 # Jupyter
 .ipynb_checkpoints/
-notebooks/outputs/
 
-# Data files
+# Data
 data/
-notebooks/data/
+*.csv
+*.xlsx
 outputs/
 
 # IDE
@@ -18,4 +18,3 @@ outputs/
 
 # System
 .DS_Store
-Thumbs.db
